@@ -1,3 +1,5 @@
+DRC: excelente!! Só faltou uma seção explicando as branches.
+
 ### O que é o GitHub e por que ele é importante?
   GitHub é uma plataforma de repositório de dados compartilhados e é utilizada mundialmente por programadores e desenvolvedores pela praticidade em hospedar códigos-fonte e arquivos na nuvem. Essa plataforma é muito importante quando se quer desenvolver algum projeto, já que nele existe a possibilidade de que vários membros de uma equipe trabalhem juntos, inclusive de maneira remota. Além disso, mesmo após a conclusão de um projeto, ele constantemente é atualizado e corrigido, e uma das propostas do GitHub é acompanhar modificações feitas no código base de forma que ele não se perca e possa ser revisto futuramente se necessário.
   
@@ -15,6 +17,8 @@ O repositório é o local no qual todos os arquivos de um projeto estarão armaz
 
 ### Adicionando arquivos ao seu repositório
 
+DRC: pode ser interessante explicar um pouco mais o que significa um commit aqui para caso o leitor seja iniciante.
+
 1.	Clique em `Add File` – `Create New File`;
 2.	Nomeie seu novo arquivo;
 3.	Para salvar seu arquivo, vá até `Commit New File`, dê um nome ao seu commit e escreva uma breve descrição sobre o que foi feito para que seja registrado detalhadamente no seu histórico;
@@ -23,6 +27,8 @@ O repositório é o local no qual todos os arquivos de um projeto estarão armaz
 6.	Para editar o arquivo, basta clicar no ícone de lápis no canto direito da pasta.
 
 ### Abrindo e editando um arquivo do git no computador 
+
+DRC: no passo 7 não é o link, mas sim o comentário associado ao commit. 
 
 1.	Clique com o botão direito no local em que deseja colocar o arquivo do git e vá em `Git Bash Here`;
 2.	No github web, abra seu repositório, clique no botão code e copie o link disponível na parte `HTTPS`;
